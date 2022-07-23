@@ -1,0 +1,2 @@
+cat pings205.txt| tr = " " |awk '{print $10}'>pingsmodified205.csv
+
